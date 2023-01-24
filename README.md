@@ -6,7 +6,7 @@ Defines the styles for my keyboard layouts that I plan to design using http://ww
 
 # Example 
 
-![Keybaord-Image](Linkhere)
+![Keyboard-Image](https://github.com/Smeagol2069/Keyboard-Styling/blob/main/keyboard-layout.png)
 
 # Further information
 
